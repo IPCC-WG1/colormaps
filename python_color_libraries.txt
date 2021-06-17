@@ -1,0 +1,12 @@
+IPCC COLOR LIBRARIES FOR PYTHON
+
+please find the color palette in the Python package "pyam"
+available here: https://pyam-iamc.readthedocs.io/en/latest/tutorials/ipcc_colors.html
+
+For any questions about the package, please contact the authors:
+
+Dr. Matthew Gidden
+mail: matthew.gidden@gmail.com
+
+Dr. Daniel Huppmann 
+mail: huppmann@iiasa.ac.at
